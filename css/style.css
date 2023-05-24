@@ -649,7 +649,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.04em;
     color: #ffffff;
     border: none;
-
+    
 
     min-width: 165px;
   width: 165px;
@@ -673,7 +673,6 @@ letter-spacing: 0.02em;
 
 .send-icon{
     margin-left: 16px;
-    height:24px;
 }
 
 .footer-btn{
