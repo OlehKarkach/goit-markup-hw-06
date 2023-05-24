@@ -138,5 +138,8 @@
 <path fill="none" stroke="#000" style="stroke: var(--color2, #000)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.3333" d="M31.333 16c0 8.468-6.865 15.333-15.333 15.333s-15.333-6.865-15.333-15.333c0-8.468 6.865-15.333 15.333-15.333s15.333 6.865 15.333 15.333z"></path>
 <path fill="#2e2f42" style="fill: var(--color3, #2e2f42)" d="M21.333 11.741l-1.074-1.074-4.259 4.259-4.259-4.259-1.074 1.074 4.259 4.259-4.259 4.259 1.074 1.074 4.259-4.259 4.259 4.259 1.074-1.074-4.259-4.259 4.259-4.259z"></path>
 </symbol>
+<symbol id="icon-icon-send" viewBox="0 0 38 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M38.4 0l-38.4 18 12.272 3.788 18.928-14.788-14.397 16.186 0.012 0.004-0.014-0.004v8.814l6.882-6.691 8.718 2.691 6-28z"></path>
+</symbol>
 </defs>
 </svg>
