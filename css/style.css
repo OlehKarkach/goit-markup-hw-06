@@ -840,3 +840,14 @@ letter-spacing: 0.02em;
 .modal-btn:focus .close-color {
   fill: #ffffff;
 }
+
+.modal-contacts{
+    font-family: Roboto;
+    font-size: 16px;
+    line-height:24px ;
+    line-height: 128px;
+    text-align: center;
+    vertical-align: top;
+    letter-spacing: 2%;
+    
+}
