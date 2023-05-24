@@ -643,7 +643,7 @@ letter-spacing: 0.02em;
     margin-left: 120px;
 }
 
-/* .submit-btn{
+.submit-btn{
   width: 165px;
   height: 40px;
   background-color: #4D5AE5;
@@ -656,7 +656,7 @@ letter-spacing: 0.02em;
     padding-top: 8px;
     padding-bottom:8px;
     margin-left: 24px;
-} */
+}
 
 .subscribe{
     margin-left: 80px;
