@@ -643,7 +643,7 @@ letter-spacing: 0.02em;
     margin-left: 120px;
 }
 
-.submit-btn{
+/* .submit-btn{
   width: 165px;
   height: 40px;
   background-color: #4D5AE5;
@@ -656,7 +656,7 @@ letter-spacing: 0.02em;
     padding-top: 8px;
     padding-bottom:8px;
     margin-left: 24px;
-}
+} */
 
 .subscribe{
     margin-left: 80px;
@@ -676,8 +676,19 @@ letter-spacing: 0.02em;
 
 }
 .footer-mail{
-    
+    width: 264px;
+    height: 40px; 
+    border: 1px solid #ffffff; 
+    background-color: transparent;
+    font-size: 12px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    padding-left: 16px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+    border-radius: 4px;
+    color: #ffffff;
 }
+
 
 /* =====================PAGE#2==================== */
 
