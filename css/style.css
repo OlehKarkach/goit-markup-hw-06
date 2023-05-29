@@ -1067,6 +1067,10 @@ letter-spacing: 0.02em;
     margin-bottom: 16px;
 }
 
+.modal-form-input:focus{
+    fill: #4D5AE5;
+}
+
 .modal-form-message:focus{
     border-color: #4D5AE5;
 }
@@ -1077,5 +1081,5 @@ letter-spacing: 0.02em;
 
 .privacy-policy-link:checked{
     border:none;
-    fill:#FFFFFF;
+    fill:#FFFFFF
 }
